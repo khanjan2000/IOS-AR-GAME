@@ -4,4 +4,4 @@
 
 Youtube Link :- https://www.youtube.com/watch?v=D60fz-PwVWY&t=3s
 
-![github-small](https://github.com/khanjan2000/IOS-AR-GAME/blob/master/img1.PNG)
+<img src="img1.png" width="10" height="100">
