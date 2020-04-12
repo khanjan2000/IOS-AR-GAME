@@ -4,4 +4,4 @@
 
 Youtube Link :- https://www.youtube.com/watch?v=D60fz-PwVWY&t=3s
 
-<img src="img1.png" width="200" height="200">
+<img src="img1.PNG" width="200" height="200">
